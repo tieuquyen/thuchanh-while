@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9b74e8b-c413-4e40-9f6d-78d5d98eaac2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Biến, kiểu dữ liệu và toán tử/BT1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Biến, kiểu dữ liệu và toán tử/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Biến, kiểu dữ liệu và toán tử/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Biến, kiểu dữ liệu và toán tử/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap-switch-case/bt-switch-case.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt-nhung-javascript/baitap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt-nhung-javascript/baitap2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt-nhung-javascript/bt3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt-nhung-javascript/bt3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt-tinhchisocannang/bmi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hienthidaura/.idea/hienthidaura.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../khaibaosd-bien/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../khaibaosd-bien/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kiemtranamnhuan/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lt-if-else-if/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lt-switch-case/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lt-switch-case/sign.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lt-switch-case/switch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyentap-if-else/ex01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyentap-toantu/employee.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sd-toantu/toantu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sd-toantu/toantu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/thuc-hanh while.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-for/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-for/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-for/.idea/thuchanh-for.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-for/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-for/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-sukienbanphim/ball.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-sukienbanphim/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-sukienbanphim/nobita.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-sukienchuot/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-sukienchuot/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-sukienchuot/.idea/thuchanh-sukienchuot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-sukienchuot/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-sukienchuot/ball.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-sukienchuot/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ungdung-maytinh/maytinh.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1PAg6HGjAGz33UVez4U5aG0opJp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../thuchanh-for" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9b74e8b-c413-4e40-9f6d-78d5d98eaac2" name="Default Changelist" comment="" />
+      <created>1565322137415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565322137415</updated>
+      <workItem from="1565322138839" duration="639000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
